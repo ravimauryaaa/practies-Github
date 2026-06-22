@@ -1,5 +1,5 @@
 # practies-Github
 This is my first repository.
-<bra>
+<br>
 Author name - Ravi maurya 
 
